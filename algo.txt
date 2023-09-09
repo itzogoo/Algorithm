@@ -5,9 +5,9 @@ STEP ONE: Problem: Algorithm that reads a  sentence that determines
 STEP TWO: Solution
 
 STEP THREE: - create variables to hold
-    sentence,word count,vowel character, vowel count
+    sentence,word count,vowel character, vowel count.
 
-STEP FOUR: -Read the sentence
+STEP FOUR: -Read the sentence.
 
 STEP FIVE: -On getting to a space add 1 to word count
 
