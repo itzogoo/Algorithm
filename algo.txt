@@ -1,0 +1,22 @@
+STEP ONE: Problem: Algorithm that reads a  sentence that determines
+[i] word count
+[ii] vowel count
+
+STEP TWO: Solution
+
+STEP THREE: - create variables to hold
+    sentence,word count,vowel character, vowel count
+
+STEP FOUR: -Read the sentence
+
+STEP FIVE: -On getting to a space add 1 to word count
+
+STEP SIX: -Continue counting until the end of the point
+
+STEP SEVEN: -Read vowel characters {a e i o u}
+
+STEP EIGHT: -Read sentence character by character
+
+STEP NINE: -If sentencecharacter match any vowel character add 1 to vowel count
+
+STEP TEN: -Add 1 to vowelcount
